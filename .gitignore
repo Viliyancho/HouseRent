@@ -1,0 +1,36 @@
+# Build folders
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+*.vcxproj.*
+*.dbmdl
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Logs
+*.log
+
+# Temporary files
+~$*
+*.tmp
+
+# Others
+project.lock.json
+project.fragment.lock.json
+*.cache
+*.pdb
